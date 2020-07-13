@@ -1,10 +1,17 @@
 Petful
+by: Javori Smart
 
 Link to Project: https://petful-client-javi.vercel.app/
 
 API Documentation: https://dashboard.heroku.com/apps/obscure-ridge-01396
 
 Summary: This app is a pet adoption app that runs on a queue. You sign up for the queue on the adoption page and wait to see which pet you get assigned to, then decide if you want it or not.
+
+Technologies: 
+
+Client: ReactJS HTML JavaScript CSS Vercel
+Server: NodeJs Express Knex PostgreSQL Heroku 
+
 
 # Petful Client
 
